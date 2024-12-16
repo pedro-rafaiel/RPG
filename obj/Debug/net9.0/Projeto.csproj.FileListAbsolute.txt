@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0\Projeto.exe
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0\Projeto.deps.json
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0\Projeto.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0\Projeto.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0\Projeto.pdb
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\refint\Projeto.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.pdb
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0\ref\Projeto.dll

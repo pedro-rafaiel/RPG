@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0-windows\RPG.exe
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0-windows\RPG.deps.json
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0-windows\RPG.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0-windows\RPG.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\bin\Debug\net9.0-windows\RPG.pdb
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\refint\RPG.dll
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.pdb
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\RPG.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\projeto\Projeto\obj\Debug\net9.0-windows\ref\RPG.dll
