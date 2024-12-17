@@ -13,7 +13,7 @@ Bem-vindo ao **RPG Simulador**, onde você se torna o herói em uma batalha épi
 
 Este projeto é construído com as seguintes tecnologias:
 
-- 🖥️: Linguagem de programação utilizada para implementar a lógica do jogo.
+- ![c#](cs#.svg): Linguagem de programação utilizada para implementar a lógica do jogo.
 - **Windows Forms** 🏙️: Framework usado para criar a interface gráfica do usuário.
 - **.NET Framework** ⚙️: A plataforma de desenvolvimento utilizada para compilar e rodar o projeto.
 
